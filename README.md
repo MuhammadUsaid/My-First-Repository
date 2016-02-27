@@ -4,10 +4,15 @@
 
 ~~this is wrong~~
 
-```git status
+```git status``
 
 `git commit`
 
 ``git add``
 
 they are amazing
+1. Apple
+2. Banana
+3.   1.green banana
+4.     *red banana
+5.     
