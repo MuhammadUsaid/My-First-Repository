@@ -4,10 +4,10 @@
 
 ~~this is wrong~~
 
-`git status
+```git status
 
-`git commit
+`git commit`
 
-`git add
+``git add``
 
 they are amazing
